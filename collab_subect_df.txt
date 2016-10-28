@@ -1,0 +1,94 @@
+A Complete Theory of Everything (will be subjective)	1.0
+Mathematics - Metric Geometry	1.0
+Mathematics - Differential Geometry	1.0
+Quantitative Biology - Other Quantitative Biology	1.0
+Condensed Matter - Disordered Systems and Neural Networks	1.0
+Mathematics - Quantum Algebra	1.0
+Physics - History and Philosophy of Physics	1.58288770053
+Quantitative Biology - Populations and Evolution	1.66666666667
+Physics - Popular Physics	1.75
+Condensed Matter - Other Condensed Matter	1.75
+Mathematics - Probability	1.83333333333
+Mathematical Physics	1.83673469388
+Computer Science - Discrete Mathematics	2.0
+Computer Science - Symbolic Computation	2.0
+Statistics - Computation	2.0
+Mathematics - Classical Analysis and ODEs	2.0
+Nonlinear Sciences - Cellular Automata and Lattice Gases	2.0
+Quantitative Biology - Quantitative Methods	2.0
+Computer Science - Numerical Analysis	2.0
+Physics - General Physics	2.11363636364
+Mathematics - Optimization and Control	2.2
+Mathematics - Dynamical Systems	2.4
+Physics - Classical Physics	2.41176470588
+High Energy Physics - Theory	2.4960591133
+	2.5
+Mathematics - Complex Variables	2.5
+Condensed Matter - Statistical Mechanics	2.5
+Nonlinear Sciences - Chaotic Dynamics	2.63829787234
+Quantitative Biology - Biomolecules	2.66666666667
+Physics - Biological Physics	2.66666666667
+Mathematics - Analysis of PDEs	2.69230769231
+Mathematics - Statistics Theory	2.71428571429
+Statistics - Methodology	2.77777777778
+Quantum Physics	2.78378378378
+Physics - Physics and Society	2.93333333333
+Physics - Fluid Dynamics	2.94578313253
+Computer Science - Information Retrieval	3.0
+Quantitative Biology - Genomics	3.0
+Computer Science - Graphics	3.0
+Computer Science - Computers and Society	3.0
+Computer Science - Sound	3.0
+Hadronic and hybrid stars subject to density dependent magnetic fields	3.0
+Nonlinear Sciences - Adaptation and Self-Organizing Systems	3.0
+Condensed Matter - Strongly Correlated Electrons	3.0
+Nuclear Theory	3.088365243
+Physics - Chemical Physics	3.11627906977
+Computer Science - Learning	3.16666666667
+Statistics - Applications	3.21052631579
+Physics - Plasma Physics	3.22340425532
+High Energy Physics - Phenomenology	3.25983558426
+Condensed Matter - Quantum Gases	3.28571428571
+Mathematics - Numerical Analysis	3.33333333333
+Condensed Matter - Mesoscale and Nanoscale Physics	3.33333333333
+Computer Science - Networking and Internet Architecture	3.5
+Computer Science - Information Theory	3.72727272727
+Physics - Medical Physics	4.0
+Statistics - Machine Learning	4.0
+Computer Science - Systems and Control	4.0
+Physics - Atomic Physics	4.03333333333
+Physics - Optics	4.14035087719
+Computer Science - Digital Libraries	4.15384615385
+Computer Science - Computer Vision and Pattern Recognition	4.1875
+Physics - Computational Physics	4.24
+Physics - Physics Education	4.30769230769
+High Energy Physics - Lattice	4.4
+Physics - Atomic and Molecular Clusters	4.4
+Computer Science - Performance	4.5
+Computer Science - Artificial Intelligence	4.5
+Condensed Matter - Soft Condensed Matter	4.8
+Computer Science - Computational Engineering, Finance, and Science	4.85714285714
+Physics - Atmospheric and Oceanic Physics	4.89230769231
+Physics - Space Physics	4.90573770492
+Computer Science - Neural and Evolutionary Computing	5.0
+Nonlinear Sciences - Pattern Formation and Solitons	5.25
+Condensed Matter - Materials Science	5.30434782609
+Physics - Geophysics	5.40322580645
+Astrophysics - Solar and Stellar Astrophysics	5.89137251389
+Condensed Matter - Superconductivity	6.33333333333
+Computer Science - Cryptography and Security	7.0
+Astrophysics - Earth and Planetary Astrophysics	7.21634034324
+Astrophysics - Astrophysics of Galaxies	7.34136714311
+Astrophysics - Cosmology and Nongalactic Astrophysics	7.39983861206
+General Relativity and Quantum Cosmology	7.66694843618
+Computer Science - Databases	8.25
+Computer Science - Distributed, Parallel, and Cluster Computing	8.26315789474
+Computer Science - Mathematical Software	8.5
+Physics - Data Analysis, Statistics and Probability	8.73913043478
+Computer Science - Human-Computer Interaction	10.0
+Astrophysics - High Energy Astrophysical Phenomena	12.0389451837
+Astrophysics - Instrumentation and Methods for Astrophysics	12.1786351778
+Physics - Accelerator Physics	13.6666666667
+Nuclear Experiment	14.5981308411
+Physics - Instrumentation and Detectors	17.5828025478
+High Energy Physics - Experiment	43.7520661157

@@ -1,0 +1,81 @@
+##########################
+##########################
+Top Article Entries in 2016
+Astrophysics - Astrophysics of Galaxies                  2941
+Astrophysics - Solar and Stellar Astrophysics            2379
+Astrophysics - High Energy Astrophysical Phenomena       2020
+Astrophysics - Cosmology and Nongalactic Astrophysics    1339
+Name: Subject, dtype: int64
+##########################
+##########################
+Top Article Entries in 2007
+Astrophysics                                10164
+General Relativity and Quantum Cosmology      438
+High Energy Physics - Theory                  319
+High Energy Physics - Phenomenology           237
+Name: Subject, dtype: int64
+##########################
+##########################
+Top Article Entries in 2008
+Astrophysics                                10122
+General Relativity and Quantum Cosmology      422
+High Energy Physics - Phenomenology           320
+High Energy Physics - Theory                  248
+Name: Subject, dtype: int64
+##########################
+##########################
+Top Article Entries in 2009
+Astrophysics - Cosmology and Nongalactic Astrophysics    3922
+Astrophysics - Solar and Stellar Astrophysics            2494
+Astrophysics - High Energy Astrophysical Phenomena       1845
+Astrophysics - Astrophysics of Galaxies                  1599
+Name: Subject, dtype: int64
+##########################
+##########################
+Top Article Entries in 2010
+Astrophysics - Cosmology and Nongalactic Astrophysics    4061
+Astrophysics - Solar and Stellar Astrophysics            2750
+Astrophysics - High Energy Astrophysical Phenomena       1760
+Astrophysics - Astrophysics of Galaxies                  1432
+Name: Subject, dtype: int64
+##########################
+##########################
+Top Article Entries in 2011
+Astrophysics - Cosmology and Nongalactic Astrophysics    4033
+Astrophysics - Solar and Stellar Astrophysics            2834
+Astrophysics - High Energy Astrophysical Phenomena       1988
+Astrophysics - Astrophysics of Galaxies                  1347
+Name: Subject, dtype: int64
+##########################
+##########################
+Top Article Entries in 2012
+Astrophysics - Cosmology and Nongalactic Astrophysics    3918
+Astrophysics - Solar and Stellar Astrophysics            2798
+Astrophysics - High Energy Astrophysical Phenomena       2009
+Astrophysics - Astrophysics of Galaxies                  1458
+Name: Subject, dtype: int64
+##########################
+##########################
+Top Article Entries in 2013
+Astrophysics - Cosmology and Nongalactic Astrophysics    3737
+Astrophysics - Solar and Stellar Astrophysics            2897
+Astrophysics - High Energy Astrophysical Phenomena       2314
+Astrophysics - Astrophysics of Galaxies                  1532
+Name: Subject, dtype: int64
+##########################
+##########################
+Top Article Entries in 2014
+Astrophysics - Solar and Stellar Astrophysics            3137
+Astrophysics - Astrophysics of Galaxies                  3106
+Astrophysics - High Energy Astrophysical Phenomena       2037
+Astrophysics - Cosmology and Nongalactic Astrophysics    1993
+Name: Subject, dtype: int64
+##########################
+##########################
+Top Article Entries in 2015
+Astrophysics - Astrophysics of Galaxies                  3306
+Astrophysics - Solar and Stellar Astrophysics            3035
+Astrophysics - High Energy Astrophysical Phenomena       2409
+Astrophysics - Cosmology and Nongalactic Astrophysics    1782
+Name: Subject, dtype: int64
+##########################
